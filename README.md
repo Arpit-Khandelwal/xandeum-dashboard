@@ -2,7 +2,8 @@
 
 An advanced analytics and monitoring platform for the [Xandeum](https://xandeum.network) storage network. This dashboard provides real-time visibility into the pNode ecosystem, offering validators and users a clear window into network health, performance, and decentralization.
 
-![Dashboard Preview](https://i.imgur.com/your-screenshot-placeholder.png)
+**Live Demo:** [https://my-xandeum-dashboard.vercel.app/](https://my-xandeum-dashboard.vercel.app/)
+
 
 ## 🚀 Mission
 
