@@ -21,7 +21,7 @@ export default function Home()
           <h1 className="text-3xl">Xandeum Explorer</h1>
         </div>
         <div className="flex gap-4">
-          <a href="https://xandeum.network" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ textDecoration: 'none' }}>
+          <a href="https://github.com/Arpit-Khandelwal/xandeum-dashboard/blob/main/DEPLOYMENT_USAGE.md" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ textDecoration: 'none' }}>
             Documentation
           </a>
         </div>
