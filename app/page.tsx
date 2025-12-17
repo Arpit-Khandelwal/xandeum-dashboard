@@ -16,7 +16,7 @@ export default function Home()
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[var(--status-online)] opacity-75"></span>
               <span className="relative inline-flex rounded-full h-3 w-3 bg-[var(--status-online)]"></span>
             </div>
-            <h3 className="text-[var(--status-online)] font-mono text-xs">LIVE MAINNET</h3>
+            <h3 className="text-[var(--status-online)] font-mono text-xs">LIVE DEVNET</h3>
           </div>
           <h1 className="text-3xl">Xandeum Explorer</h1>
         </div>
