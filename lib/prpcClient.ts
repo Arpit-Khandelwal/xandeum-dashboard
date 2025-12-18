@@ -12,15 +12,18 @@ const seeds = [
   "173.212.203.145",
 ];
 
-async function getClient(): Promise<PrpcClient>
+async function getWorkingClient(): Promise<PrpcClient>
 {
-  for (const seed of seeds) {
+  const shuffledSeeds = [...seeds].sort(() => Math.random() - 0.5);
+  for (const seed of shuffledSeeds) {
     try {
       const client = new PrpcClient(seed);
-      // Basic connectivity check could go here if needed
+      // Simple ping-like call to verify connectivity
+      // @ts-ignore
+      await client.getPods();
       return client;
     } catch (e) {
-      console.warn(`Failed connect to ${seed}`, e);
+      console.warn(`Seed ${seed} is down, trying next...`);
     }
   }
   throw new Error("All seeds failed");
@@ -73,8 +76,9 @@ function mapRawToPNode(raw: RawPod): PNode
       nodeId: raw.pubkey,
       uptime: raw.uptime,
       disk_usage: raw.storage_used,
-      cpu_usage: Math.floor(Math.random() * 40) + 10, // Mock
-      memory_usage: Math.floor(Math.random() * 60) + 20, // Mock
+      storage_committed: raw.storage_committed,
+      // cpu_usage: undefined, 
+      // memory_usage: undefined, 
       bandwidth_in: 0,
       bandwidth_out: 0,
       last_sync: new Date(),
@@ -84,18 +88,23 @@ function mapRawToPNode(raw: RawPod): PNode
 
 export async function getPNodes(): Promise<PNode[]>
 {
-  const client = await getClient();
+  const client = await getWorkingClient();
   // @ts-ignore
   const response = await client.getPodsWithStats();
   const rawPods = (response as any).pods as RawPod[];
 
-  return rawPods.map(mapRawToPNode);
+  const nodes = rawPods.map(mapRawToPNode);
+
+  // Deduplicate by ID
+  const uniqueNodes = Array.from(new Map(nodes.map(n => [n.id, n])).values());
+
+  return uniqueNodes;
 }
 
 
 export async function getPodsWithStats(): Promise<PodsResponse>
 {
-  const client = await getClient();
+  const client = await getWorkingClient();
   // @ts-ignore 
   const response = await client.getPodsWithStats();
   return response as unknown as PodsResponse;
@@ -103,7 +112,7 @@ export async function getPodsWithStats(): Promise<PodsResponse>
 
 export async function getStats(nodeId: string): Promise<NodeStats>
 {
-  const client = await getClient();
+  const client = await getWorkingClient();
   // @ts-ignore 
   const stats = await client.getStats(nodeId);
   return stats as unknown as NodeStats;
@@ -142,7 +151,7 @@ export async function getNetworkSummary()
     onlinePercent,
     countries,
     atRiskCount: pods.filter(n => n.atRisk).length,
-    compositeScore: 85,
+    compositeScore: Math.round(availabilityScore * 0.4 + onlinePercent * 0.6),
     availabilityScore,
     versionHealth: versions.every(v => v.percent > 10) ? 90 : 60,
     distributionScore: countries > 5 ? 90 : 40,

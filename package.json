@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "next lint"
   },
@@ -23,18 +23,20 @@
     "clsx": "^2.1.1",
     "d3-geo": "^3.1.1",
     "d3-scale": "^4.0.2",
+    "framer-motion": "^12.23.26",
     "lucide-react": "^0.561.0",
-    "next": "14.2.3",
+    "next": "^16.0.10",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-simple-maps": "^3.0.0",
+    "recharts": "^3.6.0",
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7",
-    "xandeum-prpc": "^0.1.6",
-    "xandeum-prpc-js": "github:DavidNzube101/xandeum-prpc-js"
+    "xandeum-prpc": "^0.1.6"
   },
   "devDependencies": {
+    "@types/bun": "^1.3.4",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

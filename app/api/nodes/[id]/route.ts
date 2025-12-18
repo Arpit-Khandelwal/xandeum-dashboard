@@ -3,9 +3,10 @@ import { getStats } from "@/lib/prpcClient";
 
 export async function GET(
     request: Request,
-    { params }: { params: { id: string } }
+    props: { params: Promise<{ id: string }> }
 )
 {
+    const params = await props.params;
     try {
         const stats = await getStats(params.id);
         return NextResponse.json(stats);

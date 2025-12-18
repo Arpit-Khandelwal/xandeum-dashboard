@@ -48,11 +48,21 @@ export interface PodsResponse
 export interface NodeStats
 {
   nodeId: string;
-  cpu_usage: number;
-  memory_usage: number;
+  cpu_usage?: number;
+  memory_usage?: number;
   disk_usage: number;
-  bandwidth_in: number;
-  bandwidth_out: number;
+  storage_committed?: number;
+  bandwidth_in?: number;
+  bandwidth_out?: number;
   uptime: number;
   last_sync: Date;
+}
+
+export interface Activity
+{
+  id: string;
+  type: 'info' | 'success' | 'warning' | 'error';
+  msg: string;
+  nodeId?: string;
+  time: number;
 }

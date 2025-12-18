@@ -74,8 +74,8 @@ export default function NodeDetailsDrawer({ node, onClose, isOpen }: NodeDetails
                     <div>
                         <h3 className="text-xs text-muted-foreground uppercase mb-4 font-bold tracking-wider">System Resources</h3>
                         <div className="space-y-6">
-                            <ResourceBar label="CPU Load" value={node.stats?.cpu_usage || 0} color="hsl(var(--primary))" />
-                            <ResourceBar label="Memory" value={node.stats?.memory_usage || 0} color="hsl(var(--secondary))" />
+                            <ResourceBar label="CPU Load" value={node.stats?.cpu_usage || 0} displayValue={node.stats?.cpu_usage === undefined ? 'N/A' : undefined} color="hsl(var(--primary))" />
+                            <ResourceBar label="Memory" value={node.stats?.memory_usage || 0} displayValue={node.stats?.memory_usage === undefined ? 'N/A' : undefined} color="hsl(var(--secondary))" />
                             <ResourceBar label="Disk Usage" value={(node.stats?.disk_usage || 0) / 1000 * 100} displayValue={`${formatBytes((node.stats?.disk_usage || 0) * 1024 * 1024 * 1024)}`} color="#10b981" />
                         </div>
                     </div>

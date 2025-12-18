@@ -1,0 +1,6287 @@
+{
+  "stats": [
+    {
+      "timestamp": 1765995635779,
+      "totalNodes": 202,
+      "onlineNodes": 186,
+      "score": 92
+    },
+    {
+      "timestamp": 1765995695779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1765995755779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1765995815779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1765995875779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1765995935779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1765995995779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996055779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996115779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996175779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996235779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1765996295779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996355779,
+      "totalNodes": 200,
+      "onlineNodes": 176,
+      "score": 88
+    },
+    {
+      "timestamp": 1765996415779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1765996475779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996535779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996595779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996655779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1765996715779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996775779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996835779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1765996895779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765996955779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1765997015779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997075779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1765997135779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997195779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1765997255779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997315779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997375779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1765997435779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997495779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1765997555779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1765997615779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1765997675779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1765997735779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1765997795779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1765997855779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1765997915779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1765997975779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1765998035779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1765998095779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1765998155779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1765998215779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1765998275779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1765998335779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1765998395779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1765998455779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765998515779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1765998575779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1765998635779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1765998695779,
+      "totalNodes": 202,
+      "onlineNodes": 186,
+      "score": 92
+    },
+    {
+      "timestamp": 1765998755779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1765998815779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1765998875779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1765998935779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1765998995779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999055779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999115779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999175779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999235779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1765999295779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1765999355779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999415779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999475779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999535779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999595779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999655779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999715779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999775779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1765999835779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1765999895779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1765999955779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000015779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766000075779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766000135779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766000195779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000255779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766000315779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000375779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000435779,
+      "totalNodes": 202,
+      "onlineNodes": 186,
+      "score": 92
+    },
+    {
+      "timestamp": 1766000495779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766000555779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766000615779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000675779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766000735779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766000795779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766000855779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766000915779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766000975779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001035779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001095779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766001155779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001215779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766001275779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001335779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766001395779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766001455779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766001515779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766001575779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766001635779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766001695779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001755779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766001815779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766001875779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766001935779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766001995779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766002055779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766002115779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766002175779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1766002235779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766002295779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766002355779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766002415779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766002475779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766002535779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766002595779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766002655779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766002715779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766002775779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766002835779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766002895779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766002955779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766003015779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766003075779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766003135779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766003195779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766003255779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766003315779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766003375779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766003435779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766003495779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766003555779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766003615779,
+      "totalNodes": 201,
+      "onlineNodes": 175,
+      "score": 87
+    },
+    {
+      "timestamp": 1766003675779,
+      "totalNodes": 206,
+      "onlineNodes": 177,
+      "score": 86
+    },
+    {
+      "timestamp": 1766003735779,
+      "totalNodes": 200,
+      "onlineNodes": 172,
+      "score": 86
+    },
+    {
+      "timestamp": 1766003795779,
+      "totalNodes": 200,
+      "onlineNodes": 174,
+      "score": 87
+    },
+    {
+      "timestamp": 1766003855779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766003915779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766003975779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766004035779,
+      "totalNodes": 208,
+      "onlineNodes": 181,
+      "score": 87
+    },
+    {
+      "timestamp": 1766004095779,
+      "totalNodes": 202,
+      "onlineNodes": 176,
+      "score": 87
+    },
+    {
+      "timestamp": 1766004155779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766004215779,
+      "totalNodes": 202,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766004275779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766004335779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766004395779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766004455779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766004515779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766004575779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766004635779,
+      "totalNodes": 209,
+      "onlineNodes": 182,
+      "score": 87
+    },
+    {
+      "timestamp": 1766004695779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766004755779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766004815779,
+      "totalNodes": 206,
+      "onlineNodes": 177,
+      "score": 86
+    },
+    {
+      "timestamp": 1766004875779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766004935779,
+      "totalNodes": 203,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766004995779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766005055779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766005115779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005175779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005235779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766005295779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005355779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766005415779,
+      "totalNodes": 202,
+      "onlineNodes": 170,
+      "score": 84
+    },
+    {
+      "timestamp": 1766005475779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005535779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766005595779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766005655779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766005715779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005775779,
+      "totalNodes": 206,
+      "onlineNodes": 179,
+      "score": 87
+    },
+    {
+      "timestamp": 1766005835779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766005895779,
+      "totalNodes": 204,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766005955779,
+      "totalNodes": 201,
+      "onlineNodes": 175,
+      "score": 87
+    },
+    {
+      "timestamp": 1766006015779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766006075779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766006135779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766006195779,
+      "totalNodes": 205,
+      "onlineNodes": 170,
+      "score": 83
+    },
+    {
+      "timestamp": 1766006255779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766006315779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766006375779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766006435779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766006495779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766006555779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766006615779,
+      "totalNodes": 200,
+      "onlineNodes": 174,
+      "score": 87
+    },
+    {
+      "timestamp": 1766006675779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766006735779,
+      "totalNodes": 200,
+      "onlineNodes": 172,
+      "score": 86
+    },
+    {
+      "timestamp": 1766006795779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766006855779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766006915779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766006975779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766007035779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766007095779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766007155779,
+      "totalNodes": 205,
+      "onlineNodes": 170,
+      "score": 83
+    },
+    {
+      "timestamp": 1766007215779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766007275779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766007335779,
+      "totalNodes": 208,
+      "onlineNodes": 181,
+      "score": 87
+    },
+    {
+      "timestamp": 1766007395779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766007455779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766007515779,
+      "totalNodes": 203,
+      "onlineNodes": 177,
+      "score": 87
+    },
+    {
+      "timestamp": 1766007575779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766007635779,
+      "totalNodes": 206,
+      "onlineNodes": 177,
+      "score": 86
+    },
+    {
+      "timestamp": 1766007695779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766007755779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766007815779,
+      "totalNodes": 203,
+      "onlineNodes": 177,
+      "score": 87
+    },
+    {
+      "timestamp": 1766007875779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766007935779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766007995779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766008055779,
+      "totalNodes": 204,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766008115779,
+      "totalNodes": 206,
+      "onlineNodes": 179,
+      "score": 87
+    },
+    {
+      "timestamp": 1766008175779,
+      "totalNodes": 208,
+      "onlineNodes": 179,
+      "score": 86
+    },
+    {
+      "timestamp": 1766008235779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766008295779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766008355779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766008415779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766008475779,
+      "totalNodes": 203,
+      "onlineNodes": 177,
+      "score": 87
+    },
+    {
+      "timestamp": 1766008535779,
+      "totalNodes": 208,
+      "onlineNodes": 177,
+      "score": 85
+    },
+    {
+      "timestamp": 1766008595779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766008655779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766008715779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766008775779,
+      "totalNodes": 207,
+      "onlineNodes": 180,
+      "score": 87
+    },
+    {
+      "timestamp": 1766008835779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766008895779,
+      "totalNodes": 206,
+      "onlineNodes": 179,
+      "score": 87
+    },
+    {
+      "timestamp": 1766008955779,
+      "totalNodes": 200,
+      "onlineNodes": 166,
+      "score": 83
+    },
+    {
+      "timestamp": 1766009015779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766009075779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766009135779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009195779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009255779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009315779,
+      "totalNodes": 209,
+      "onlineNodes": 182,
+      "score": 87
+    },
+    {
+      "timestamp": 1766009375779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009435779,
+      "totalNodes": 206,
+      "onlineNodes": 171,
+      "score": 83
+    },
+    {
+      "timestamp": 1766009495779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766009555779,
+      "totalNodes": 206,
+      "onlineNodes": 179,
+      "score": 87
+    },
+    {
+      "timestamp": 1766009615779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009675779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766009735779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009795779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766009855779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766009915779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766009975779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766010035779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766010095779,
+      "totalNodes": 208,
+      "onlineNodes": 181,
+      "score": 87
+    },
+    {
+      "timestamp": 1766010155779,
+      "totalNodes": 201,
+      "onlineNodes": 167,
+      "score": 83
+    },
+    {
+      "timestamp": 1766010215779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766010275779,
+      "totalNodes": 207,
+      "onlineNodes": 172,
+      "score": 83
+    },
+    {
+      "timestamp": 1766010335779,
+      "totalNodes": 200,
+      "onlineNodes": 172,
+      "score": 86
+    },
+    {
+      "timestamp": 1766010395779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766010455779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766010515779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766010575779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766010635779,
+      "totalNodes": 203,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766010695779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766010755779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766010815779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766010875779,
+      "totalNodes": 206,
+      "onlineNodes": 171,
+      "score": 83
+    },
+    {
+      "timestamp": 1766010935779,
+      "totalNodes": 206,
+      "onlineNodes": 179,
+      "score": 87
+    },
+    {
+      "timestamp": 1766010995779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766011055779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766011115779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766011175779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766011235779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766011295779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766011355779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766011415779,
+      "totalNodes": 201,
+      "onlineNodes": 175,
+      "score": 87
+    },
+    {
+      "timestamp": 1766011475779,
+      "totalNodes": 204,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766011535779,
+      "totalNodes": 206,
+      "onlineNodes": 171,
+      "score": 83
+    },
+    {
+      "timestamp": 1766011595779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766011655779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766011715779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766011775779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766011835779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766011895779,
+      "totalNodes": 201,
+      "onlineNodes": 175,
+      "score": 87
+    },
+    {
+      "timestamp": 1766011955779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012015779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766012075779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012135779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012195779,
+      "totalNodes": 208,
+      "onlineNodes": 177,
+      "score": 85
+    },
+    {
+      "timestamp": 1766012255779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012315779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012375779,
+      "totalNodes": 205,
+      "onlineNodes": 178,
+      "score": 87
+    },
+    {
+      "timestamp": 1766012435779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766012495779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012555779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766012615779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766012675779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012735779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766012795779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766012855779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766012915779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766012975779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766013035779,
+      "totalNodes": 202,
+      "onlineNodes": 176,
+      "score": 87
+    },
+    {
+      "timestamp": 1766013095779,
+      "totalNodes": 208,
+      "onlineNodes": 179,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013155779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766013215779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766013275779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766013335779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013395779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766013455779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013515779,
+      "totalNodes": 205,
+      "onlineNodes": 178,
+      "score": 87
+    },
+    {
+      "timestamp": 1766013575779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766013635779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013695779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766013755779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766013815779,
+      "totalNodes": 204,
+      "onlineNodes": 169,
+      "score": 83
+    },
+    {
+      "timestamp": 1766013875779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013935779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766013995779,
+      "totalNodes": 203,
+      "onlineNodes": 177,
+      "score": 87
+    },
+    {
+      "timestamp": 1766014055779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766014115779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014175779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766014235779,
+      "totalNodes": 208,
+      "onlineNodes": 179,
+      "score": 86
+    },
+    {
+      "timestamp": 1766014295779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766014355779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766014415779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014475779,
+      "totalNodes": 201,
+      "onlineNodes": 169,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014535779,
+      "totalNodes": 202,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766014595779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014655779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766014715779,
+      "totalNodes": 202,
+      "onlineNodes": 170,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014775779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766014835779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766014895779,
+      "totalNodes": 208,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766014955779,
+      "totalNodes": 208,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766015015779,
+      "totalNodes": 200,
+      "onlineNodes": 174,
+      "score": 87
+    },
+    {
+      "timestamp": 1766015075779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766015135779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766015195779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766015255779,
+      "totalNodes": 208,
+      "onlineNodes": 177,
+      "score": 85
+    },
+    {
+      "timestamp": 1766015315779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766015375779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766015435779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766015495779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766015555779,
+      "totalNodes": 203,
+      "onlineNodes": 177,
+      "score": 87
+    },
+    {
+      "timestamp": 1766015615779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766015675779,
+      "totalNodes": 208,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766015735779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766015795779,
+      "totalNodes": 202,
+      "onlineNodes": 176,
+      "score": 87
+    },
+    {
+      "timestamp": 1766015855779,
+      "totalNodes": 203,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766015915779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766015975779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766016035779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016095779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766016155779,
+      "totalNodes": 208,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766016215779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016275779,
+      "totalNodes": 204,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016335779,
+      "totalNodes": 202,
+      "onlineNodes": 176,
+      "score": 87
+    },
+    {
+      "timestamp": 1766016395779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766016455779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766016515779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016575779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766016635779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766016695779,
+      "totalNodes": 207,
+      "onlineNodes": 180,
+      "score": 87
+    },
+    {
+      "timestamp": 1766016755779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016815779,
+      "totalNodes": 209,
+      "onlineNodes": 178,
+      "score": 85
+    },
+    {
+      "timestamp": 1766016875779,
+      "totalNodes": 202,
+      "onlineNodes": 170,
+      "score": 84
+    },
+    {
+      "timestamp": 1766016935779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766016995779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017055779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017115779,
+      "totalNodes": 209,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766017175779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766017235779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017295779,
+      "totalNodes": 209,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766017355779,
+      "totalNodes": 206,
+      "onlineNodes": 177,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017415779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766017475779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017535779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017595779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017655779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017715779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017775779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017835779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766017895779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766017955779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766018015779,
+      "totalNodes": 205,
+      "onlineNodes": 176,
+      "score": 86
+    },
+    {
+      "timestamp": 1766018075779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766018135779,
+      "totalNodes": 201,
+      "onlineNodes": 173,
+      "score": 86
+    },
+    {
+      "timestamp": 1766018195779,
+      "totalNodes": 204,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766018255779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766018315779,
+      "totalNodes": 207,
+      "onlineNodes": 178,
+      "score": 86
+    },
+    {
+      "timestamp": 1766018375779,
+      "totalNodes": 202,
+      "onlineNodes": 170,
+      "score": 84
+    },
+    {
+      "timestamp": 1766018435779,
+      "totalNodes": 208,
+      "onlineNodes": 179,
+      "score": 86
+    },
+    {
+      "timestamp": 1766018495779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766018555779,
+      "totalNodes": 200,
+      "onlineNodes": 166,
+      "score": 83
+    },
+    {
+      "timestamp": 1766018615779,
+      "totalNodes": 206,
+      "onlineNodes": 171,
+      "score": 83
+    },
+    {
+      "timestamp": 1766018675779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766018735779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766018795779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766018855779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766018915779,
+      "totalNodes": 200,
+      "onlineNodes": 166,
+      "score": 83
+    },
+    {
+      "timestamp": 1766018975779,
+      "totalNodes": 203,
+      "onlineNodes": 168,
+      "score": 83
+    },
+    {
+      "timestamp": 1766019035779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766019095779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019155779,
+      "totalNodes": 208,
+      "onlineNodes": 175,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019215779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766019275779,
+      "totalNodes": 208,
+      "onlineNodes": 177,
+      "score": 85
+    },
+    {
+      "timestamp": 1766019335779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766019395779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019455779,
+      "totalNodes": 202,
+      "onlineNodes": 172,
+      "score": 85
+    },
+    {
+      "timestamp": 1766019515779,
+      "totalNodes": 205,
+      "onlineNodes": 172,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019575779,
+      "totalNodes": 202,
+      "onlineNodes": 174,
+      "score": 86
+    },
+    {
+      "timestamp": 1766019635779,
+      "totalNodes": 206,
+      "onlineNodes": 177,
+      "score": 86
+    },
+    {
+      "timestamp": 1766019695779,
+      "totalNodes": 207,
+      "onlineNodes": 180,
+      "score": 87
+    },
+    {
+      "timestamp": 1766019755779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766019815779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019875779,
+      "totalNodes": 204,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766019935779,
+      "totalNodes": 206,
+      "onlineNodes": 173,
+      "score": 84
+    },
+    {
+      "timestamp": 1766019995779,
+      "totalNodes": 207,
+      "onlineNodes": 176,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020055779,
+      "totalNodes": 209,
+      "onlineNodes": 180,
+      "score": 86
+    },
+    {
+      "timestamp": 1766020115779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766020175779,
+      "totalNodes": 203,
+      "onlineNodes": 175,
+      "score": 86
+    },
+    {
+      "timestamp": 1766020235779,
+      "totalNodes": 200,
+      "onlineNodes": 174,
+      "score": 87
+    },
+    {
+      "timestamp": 1766020295779,
+      "totalNodes": 206,
+      "onlineNodes": 171,
+      "score": 83
+    },
+    {
+      "timestamp": 1766020355779,
+      "totalNodes": 207,
+      "onlineNodes": 172,
+      "score": 83
+    },
+    {
+      "timestamp": 1766020415779,
+      "totalNodes": 205,
+      "onlineNodes": 178,
+      "score": 87
+    },
+    {
+      "timestamp": 1766020475779,
+      "totalNodes": 204,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020535779,
+      "totalNodes": 200,
+      "onlineNodes": 168,
+      "score": 84
+    },
+    {
+      "timestamp": 1766020595779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020655779,
+      "totalNodes": 201,
+      "onlineNodes": 171,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020715779,
+      "totalNodes": 206,
+      "onlineNodes": 175,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020775779,
+      "totalNodes": 208,
+      "onlineNodes": 177,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020835779,
+      "totalNodes": 203,
+      "onlineNodes": 173,
+      "score": 85
+    },
+    {
+      "timestamp": 1766020895779,
+      "totalNodes": 207,
+      "onlineNodes": 174,
+      "score": 84
+    },
+    {
+      "timestamp": 1766020955779,
+      "totalNodes": 207,
+      "onlineNodes": 172,
+      "score": 83
+    },
+    {
+      "timestamp": 1766021015779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766021075779,
+      "totalNodes": 209,
+      "onlineNodes": 176,
+      "score": 84
+    },
+    {
+      "timestamp": 1766021135779,
+      "totalNodes": 200,
+      "onlineNodes": 170,
+      "score": 85
+    },
+    {
+      "timestamp": 1766021195779,
+      "totalNodes": 209,
+      "onlineNodes": 173,
+      "score": 83
+    },
+    {
+      "timestamp": 1766021255779,
+      "totalNodes": 203,
+      "onlineNodes": 171,
+      "score": 84
+    },
+    {
+      "timestamp": 1766021315779,
+      "totalNodes": 205,
+      "onlineNodes": 174,
+      "score": 85
+    },
+    {
+      "timestamp": 1766021375779,
+      "totalNodes": 200,
+      "onlineNodes": 172,
+      "score": 86
+    },
+    {
+      "timestamp": 1766021435779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766021495779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766021555779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766021615779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766021675779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766021735779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766021795779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766021855779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766021915779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1766021975779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022035779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766022095779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766022155779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766022215779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022275779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766022335779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766022395779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766022455779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766022515779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022575779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766022635779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022695779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022755779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766022815779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766022875779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766022935779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766022995779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766023055779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023115779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766023175779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023235779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766023295779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766023355779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023415779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766023475779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023535779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766023595779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766023655779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766023715779,
+      "totalNodes": 202,
+      "onlineNodes": 186,
+      "score": 92
+    },
+    {
+      "timestamp": 1766023775779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766023835779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023895779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766023955779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766024015779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766024075779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766024135779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766024195779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766024255779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766024315779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766024375779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766024435779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766024495779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766024555779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766024615779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766024675779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766024735779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766024795779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766024855779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766024915779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766024975779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766025035779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766025095779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766025155779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766025215779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766025275779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766025335779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766025395779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766025455779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766025515779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766025575779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766025635779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766025695779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766025755779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766025815779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766025875779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766025935779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766025995779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766026055779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766026115779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766026175779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766026235779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766026295779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766026355779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766026415779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766026475779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766026535779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766026595779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766026655779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766026715779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766026775779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766026835779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766026895779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766026955779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027015779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766027075779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766027135779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766027195779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766027255779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766027315779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027375779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027435779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766027495779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766027555779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027615779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766027675779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766027735779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766027795779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027855779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766027915779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766027975779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766028035779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766028095779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028155779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766028215779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028275779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766028335779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766028395779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766028455779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028515779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766028575779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028635779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766028695779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028755779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766028815779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766028875779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766028935779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766028995779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766029055779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766029115779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766029175779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766029235779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766029295779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766029355779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766029415779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766029475779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766029535779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766029595779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766029655779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766029715779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766029775779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766029835779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766029895779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766029955779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766030015779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766030075779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766030135779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766030195779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766030255779,
+      "totalNodes": 200,
+      "onlineNodes": 176,
+      "score": 88
+    },
+    {
+      "timestamp": 1766030315779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766030375779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766030435779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766030495779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766030555779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766030615779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766030675779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766030735779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766030795779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766030855779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766030915779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766030975779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766031035779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766031095779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766031155779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766031215779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766031275779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766031335779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766031395779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766031455779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766031515779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766031575779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766031635779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766031695779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766031755779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766031815779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766031875779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766031935779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766031995779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766032055779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032115779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032175779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032235779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766032295779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766032355779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032415779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766032475779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766032535779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766032595779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766032655779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766032715779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032775779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766032835779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766032895779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766032955779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033015779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766033075779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766033135779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033195779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033255779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766033315779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766033375779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766033435779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766033495779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766033555779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766033615779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033675779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033735779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766033795779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766033855779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766033915779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766033975779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766034035779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034095779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766034155779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034215779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766034275779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034335779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034395779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766034455779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766034515779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034575779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766034635779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766034695779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766034755779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766034815779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034875779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766034935779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766034995779,
+      "totalNodes": 208,
+      "onlineNodes": 183,
+      "score": 88
+    },
+    {
+      "timestamp": 1766035055779,
+      "totalNodes": 204,
+      "onlineNodes": 188,
+      "score": 92
+    },
+    {
+      "timestamp": 1766035115779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766035175779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766035235779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766035295779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766035355779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766035415779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766035475779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766035535779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766035595779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766035655779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766035715779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766035775779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766035835779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766035895779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766035955779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766036015779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766036075779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766036135779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766036195779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766036255779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766036315779,
+      "totalNodes": 200,
+      "onlineNodes": 176,
+      "score": 88
+    },
+    {
+      "timestamp": 1766036375779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766036435779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766036495779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766036555779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766036615779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766036675779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766036735779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766036795779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766036855779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766036915779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766036975779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037035779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037095779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766037155779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037215779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766037275779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766037335779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037395779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766037455779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037515779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037575779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037635779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766037695779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766037755779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037815779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766037875779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037935779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766037995779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766038055779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766038115779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766038175779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766038235779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766038295779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766038355779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766038415779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766038475779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766038535779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766038595779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766038655779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766038715779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766038775779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766038835779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766038895779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766038955779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039015779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039075779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766039135779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766039195779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766039255779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766039315779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766039375779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039435779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039495779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766039555779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766039615779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766039675779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766039735779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039795779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039855779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766039915779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766039975779,
+      "totalNodes": 205,
+      "onlineNodes": 189,
+      "score": 92
+    },
+    {
+      "timestamp": 1766040035779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766040095779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766040155779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766040215779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766040275779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766040335779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766040395779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766040455779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766040515779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766040575779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766040635779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766040695779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766040755779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766040815779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766040875779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766040935779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766040995779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766041055779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766041115779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766041175779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766041235779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766041295779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766041355779,
+      "totalNodes": 205,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766041415779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766041475779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766041535779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766041595779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766041655779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766041715779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766041775779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766041835779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766041895779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766041955779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766042015779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042075779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042135779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766042195779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042255779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042315779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766042375779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766042435779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766042495779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042555779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766042615779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766042675779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766042735779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766042795779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042855779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766042915779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1766042975779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043035779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043095779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043155779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043215779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043275779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043335779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766043395779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043455779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043515779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043575779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766043635779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043695779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766043755779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766043815779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766043875779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766043935779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766043995779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044055779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044115779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766044175779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766044235779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766044295779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766044355779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766044415779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766044475779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766044535779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044595779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044655779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766044715779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044775779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1766044835779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766044895779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766044955779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766045015779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045075779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045135779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045195779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766045255779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766045315779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045375779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766045435779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045495779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045555779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045615779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045675779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766045735779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766045795779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045855779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045915779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766045975779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766046035779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766046095779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766046155779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766046215779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766046275779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766046335779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766046395779,
+      "totalNodes": 209,
+      "onlineNodes": 184,
+      "score": 88
+    },
+    {
+      "timestamp": 1766046455779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766046515779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766046575779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766046635779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766046695779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766046755779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766046815779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766046875779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766046935779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766046995779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047055779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047115779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766047175779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766047235779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766047295779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766047355779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766047415779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047475779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766047535779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047595779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766047655779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047715779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047775779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766047835779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766047895779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766047955779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766048015779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048075779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766048135779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766048195779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048255779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048315779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766048375779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048435779,
+      "totalNodes": 201,
+      "onlineNodes": 185,
+      "score": 92
+    },
+    {
+      "timestamp": 1766048495779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766048555779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766048615779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766048675779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766048735779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048795779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766048855779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766048915779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766048975779,
+      "totalNodes": 200,
+      "onlineNodes": 182,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049035779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766049095779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766049155779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766049215779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766049275779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049335779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766049395779,
+      "totalNodes": 203,
+      "onlineNodes": 187,
+      "score": 92
+    },
+    {
+      "timestamp": 1766049455779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049515779,
+      "totalNodes": 200,
+      "onlineNodes": 176,
+      "score": 88
+    },
+    {
+      "timestamp": 1766049575779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766049635779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049695779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766049755779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766049815779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049875779,
+      "totalNodes": 208,
+      "onlineNodes": 191,
+      "score": 92
+    },
+    {
+      "timestamp": 1766049935779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766049995779,
+      "totalNodes": 206,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050055779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050115779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766050175779,
+      "totalNodes": 209,
+      "onlineNodes": 190,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050235779,
+      "totalNodes": 206,
+      "onlineNodes": 181,
+      "score": 88
+    },
+    {
+      "timestamp": 1766050295779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766050355779,
+      "totalNodes": 206,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766050415779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766050475779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766050535779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766050595779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050655779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766050715779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050775779,
+      "totalNodes": 200,
+      "onlineNodes": 176,
+      "score": 88
+    },
+    {
+      "timestamp": 1766050835779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766050895779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766050955779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766051015779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766051075779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766051135779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766051195779,
+      "totalNodes": 207,
+      "onlineNodes": 190,
+      "score": 92
+    },
+    {
+      "timestamp": 1766051255779,
+      "totalNodes": 203,
+      "onlineNodes": 185,
+      "score": 91
+    },
+    {
+      "timestamp": 1766051315779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766051375779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766051435779,
+      "totalNodes": 207,
+      "onlineNodes": 184,
+      "score": 89
+    },
+    {
+      "timestamp": 1766051495779,
+      "totalNodes": 204,
+      "onlineNodes": 184,
+      "score": 90
+    },
+    {
+      "timestamp": 1766051555779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766051615779,
+      "totalNodes": 202,
+      "onlineNodes": 186,
+      "score": 92
+    },
+    {
+      "timestamp": 1766051675779,
+      "totalNodes": 202,
+      "onlineNodes": 178,
+      "score": 88
+    },
+    {
+      "timestamp": 1766051735779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766051795779,
+      "totalNodes": 206,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766051855779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766051915779,
+      "totalNodes": 201,
+      "onlineNodes": 183,
+      "score": 91
+    },
+    {
+      "timestamp": 1766051975779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052035779,
+      "totalNodes": 202,
+      "onlineNodes": 182,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052095779,
+      "totalNodes": 207,
+      "onlineNodes": 188,
+      "score": 91
+    },
+    {
+      "timestamp": 1766052155779,
+      "totalNodes": 205,
+      "onlineNodes": 185,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052215779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052275779,
+      "totalNodes": 201,
+      "onlineNodes": 179,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052335779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766052395779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052455779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766052515779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052575779,
+      "totalNodes": 202,
+      "onlineNodes": 184,
+      "score": 91
+    },
+    {
+      "timestamp": 1766052635779,
+      "totalNodes": 200,
+      "onlineNodes": 180,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052695779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766052755779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766052815779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052875779,
+      "totalNodes": 208,
+      "onlineNodes": 185,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052935779,
+      "totalNodes": 205,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766052995779,
+      "totalNodes": 207,
+      "onlineNodes": 186,
+      "score": 90
+    },
+    {
+      "timestamp": 1766053055779,
+      "totalNodes": 203,
+      "onlineNodes": 179,
+      "score": 88
+    },
+    {
+      "timestamp": 1766053115779,
+      "totalNodes": 203,
+      "onlineNodes": 181,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053175779,
+      "totalNodes": 209,
+      "onlineNodes": 186,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053235779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053295779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053355779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766053415779,
+      "totalNodes": 200,
+      "onlineNodes": 178,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053475779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053535779,
+      "totalNodes": 209,
+      "onlineNodes": 192,
+      "score": 92
+    },
+    {
+      "timestamp": 1766053595779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053655779,
+      "totalNodes": 204,
+      "onlineNodes": 186,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053715779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053775779,
+      "totalNodes": 204,
+      "onlineNodes": 182,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053835779,
+      "totalNodes": 205,
+      "onlineNodes": 187,
+      "score": 91
+    },
+    {
+      "timestamp": 1766053895779,
+      "totalNodes": 206,
+      "onlineNodes": 183,
+      "score": 89
+    },
+    {
+      "timestamp": 1766053955779,
+      "totalNodes": 201,
+      "onlineNodes": 181,
+      "score": 90
+    },
+    {
+      "timestamp": 1766054015779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766054075779,
+      "totalNodes": 202,
+      "onlineNodes": 180,
+      "score": 89
+    },
+    {
+      "timestamp": 1766054135779,
+      "totalNodes": 200,
+      "onlineNodes": 184,
+      "score": 92
+    },
+    {
+      "timestamp": 1766054195779,
+      "totalNodes": 201,
+      "onlineNodes": 177,
+      "score": 88
+    },
+    {
+      "timestamp": 1766054255779,
+      "totalNodes": 208,
+      "onlineNodes": 189,
+      "score": 91
+    },
+    {
+      "timestamp": 1766054315779,
+      "totalNodes": 207,
+      "onlineNodes": 182,
+      "score": 88
+    },
+    {
+      "timestamp": 1766054375779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766054435779,
+      "totalNodes": 203,
+      "onlineNodes": 183,
+      "score": 90
+    },
+    {
+      "timestamp": 1766054495779,
+      "totalNodes": 204,
+      "onlineNodes": 180,
+      "score": 88
+    },
+    {
+      "timestamp": 1766054555779,
+      "totalNodes": 209,
+      "onlineNodes": 188,
+      "score": 90
+    },
+    {
+      "timestamp": 1766054615779,
+      "totalNodes": 208,
+      "onlineNodes": 187,
+      "score": 90
+    },
+    {
+      "timestamp": 1766054624356,
+      "totalNodes": 202,
+      "onlineNodes": 198,
+      "score": 99
+    },
+    {
+      "timestamp": 1766054658330,
+      "totalNodes": 202,
+      "onlineNodes": 198,
+      "score": 99
+    },
+    {
+      "timestamp": 1766054686105,
+      "totalNodes": 202,
+      "onlineNodes": 198,
+      "score": 99
+    },
+    {
+      "timestamp": 1766054718533,
+      "totalNodes": 202,
+      "onlineNodes": 188,
+      "score": 96
+    },
+    {
+      "timestamp": 1766054747808,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766054787262,
+      "totalNodes": 202,
+      "onlineNodes": 201,
+      "score": 100
+    },
+    {
+      "timestamp": 1766054853774,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766054854156,
+      "totalNodes": 202,
+      "onlineNodes": 192,
+      "score": 97
+    },
+    {
+      "timestamp": 1766054888159,
+      "totalNodes": 202,
+      "onlineNodes": 189,
+      "score": 96
+    },
+    {
+      "timestamp": 1766054949635,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766054952873,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766054987860,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766055131624,
+      "totalNodes": 202,
+      "onlineNodes": 191,
+      "score": 97
+    },
+    {
+      "timestamp": 1766055148669,
+      "totalNodes": 202,
+      "onlineNodes": 187,
+      "score": 96
+    },
+    {
+      "timestamp": 1766055191474,
+      "totalNodes": 202,
+      "onlineNodes": 190,
+      "score": 96
+    },
+    {
+      "timestamp": 1766055193105,
+      "totalNodes": 202,
+      "onlineNodes": 190,
+      "score": 96
+    }
+  ],
+  "logs": [
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "GCoCP7CLvVivuWUH1sSA9vMi9jjaJcXpMwVozMVA6yBg",
+      "id": "592862fb-2f54-43e6-aba8-45234af7e082",
+      "time": 1766055193146
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "fed6c812-fdfd-42b1-b168-7cd3f18f66fd",
+      "time": 1766055193129
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "3ad02fed-4fc7-42f5-bffa-49fe7870ab4d",
+      "time": 1766055191563
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "a53b612a-d278-41ca-869b-036719eeb943",
+      "time": 1766055191543
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "50ff44ad-a412-469a-8bae-6f697a5e0ce6",
+      "time": 1766055149336
+    },
+    {
+      "type": "warning",
+      "msg": "Node status changed to Offline ",
+      "nodeId": "8PjjPkizL4JZ54sPzNdXP99XyegcXrayv7rpfAY8EdzB",
+      "id": "2b7a58ce-8db9-43e1-8e38-13a4ad0d0e16",
+      "time": 1766055148973
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "6622df28-259e-48d0-9a90-73378f7790a9",
+      "time": 1766055148869
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "d5b50ec4-e599-4273-a3e4-c04aa65d7018",
+      "time": 1766055133996
+    },
+    {
+      "type": "success",
+      "msg": "Node status changed to Online ",
+      "nodeId": "FCCqbT8k3pwa3MqurTbN7Qy8BA3VFxq1nxcJzQaoPSQT",
+      "id": "f2b2be05-d88e-4f6d-9f6e-13af55138a42",
+      "time": 1766055133913
+    },
+    {
+      "type": "success",
+      "msg": "Node status changed to Online ",
+      "nodeId": "FHcQdejQ8NncaSGQ6j5zrUuANxdVjnkDnLnwQPJfLLfL",
+      "id": "45a780c5-dbf8-4cde-8f4a-c22db925b74a",
+      "time": 1766055133748
+    },
+    {
+      "type": "success",
+      "msg": "Node status changed to Online ",
+      "nodeId": "6GHK9rJ9Fh7PRJAmkWSwExRxLsUvbHhAXqjqixsh3xHH",
+      "id": "79741565-284f-4e80-b375-3dbe89ee7564",
+      "time": 1766055133575
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "a7cb6306-39b6-43f2-b5e3-2d0c989b64d6",
+      "time": 1766055131699
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "7fcc7281-2a0c-47e0-9c6c-eebeb24374bb",
+      "time": 1766054951178
+    },
+    {
+      "type": "warning",
+      "msg": "Node status changed to Offline ",
+      "nodeId": "6GHK9rJ9Fh7PRJAmkWSwExRxLsUvbHhAXqjqixsh3xHH",
+      "id": "b47aaacc-b674-4821-9872-97b0c82d79ee",
+      "time": 1766054951169
+    },
+    {
+      "type": "warning",
+      "msg": "Node status changed to Offline ",
+      "nodeId": "FHcQdejQ8NncaSGQ6j5zrUuANxdVjnkDnLnwQPJfLLfL",
+      "id": "262f45c7-b64f-48b7-acc6-05513f7188b1",
+      "time": 1766054951076
+    },
+    {
+      "type": "warning",
+      "msg": "Node status changed to Offline ",
+      "nodeId": "FCCqbT8k3pwa3MqurTbN7Qy8BA3VFxq1nxcJzQaoPSQT",
+      "id": "1a895e56-53f8-4674-acf4-79620825c993",
+      "time": 1766054950968
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "8RQG6E3jimAmvWNLecLCTvFJapsra7SiYuFQ3wqTQVz1",
+      "id": "9c164efa-26e7-4142-8105-2987f5ef015a",
+      "time": 1766054949919
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "8RQG6E3jimAmvWNLecLCTvFJapsra7SiYuFQ3wqTQVz1",
+      "id": "80b89e6c-ec38-4497-8cc6-5182d59346d4",
+      "time": 1766054888576
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "80388da9-1e6d-4185-b50a-358b1dabe287",
+      "time": 1766054888357
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "6ab0f045-5af0-40a9-b37b-491a7de33ef2",
+      "time": 1766054854227
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 3 Online",
+      "id": "74f0cc13-7ff1-49ee-906c-b6249bfeb675",
+      "time": 1766054854194
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "2efba77f-9c28-48f1-b721-dbf77d2d5f01",
+      "time": 1766054854189
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "22a8418e-59fc-40fe-bb77-5e2483a40441",
+      "time": 1766054853825
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 1 Online",
+      "id": "a6b5d347-597b-4a40-a059-acc7ff079ffa",
+      "time": 1766054853816
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "1eee83eb-42be-4ddb-bbde-13848f01a40f",
+      "time": 1766054853814
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "HjeRsvpPX4CnJAXW3ua2y1qrRA7t9nf8s4dYgJnavQnC",
+      "id": "9105a15c-3b98-4b37-a7dd-822afb290474",
+      "time": 1766054787417
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 4 Online",
+      "id": "470cd0cc-2533-418d-b77a-73befd3a70d4",
+      "time": 1766054787414
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "0ed33ff0-3ff6-4d2d-9732-590f4c7a075f",
+      "time": 1766054787348
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "7fH2rpU6BTyEXT3tLZT2c9gzyUQDQq6hHyhCmSe2yc9x",
+      "id": "8ceac353-8730-4a95-9a4d-27ec8c4ee3b9",
+      "time": 1766054747868
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 0 Online",
+      "id": "56fbca9c-4b46-4ca7-a740-803dd182e613",
+      "time": 1766054747839
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "EJXe4QpPnCw6MMrD2UoFqrNRSKhMvngReeZJKUQxkHEi",
+      "id": "7cf93be9-a647-4905-ae91-8f976c6e5c9c",
+      "time": 1766054747821
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "EJXe4QpPnCw6MMrD2UoFqrNRSKhMvngReeZJKUQxkHEi",
+      "id": "c2e962e4-319c-4376-8337-9ede47710235",
+      "time": 1766054718831
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 7 Online",
+      "id": "f26676fc-aa56-44d0-b417-9d97fc46c5ab",
+      "time": 1766054718784
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "1e58bbf3-6685-482f-9995-e53a12ede109",
+      "time": 1766054718768
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "2LkFCD5vpBcgch1LHbNd8vZmNpFMsgtaTDvzLLBYc7Uj",
+      "id": "880a8ef2-2472-4241-b6a1-3130a6ffcacd",
+      "time": 1766054686641
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "7cuRcs14otE81u1ViehN6dvkE1ajZZLhvYqGeinAGqf5",
+      "id": "019c5b67-fd18-4535-b5ed-ed50422edf83",
+      "time": 1766054686533
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "7cuRcs14otE81u1ViehN6dvkE1ajZZLhvYqGeinAGqf5",
+      "id": "3553fbff-dca4-456c-b0ab-f253fb8fa3f9",
+      "time": 1766054658400
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "GCoCP7CLvVivuWUH1sSA9vMi9jjaJcXpMwVozMVA6yBg",
+      "id": "0cf89fc4-d988-4b6d-9d5a-91f6718c3038",
+      "time": 1766054658390
+    },
+    {
+      "type": "error",
+      "msg": "pNode disconnected from network",
+      "nodeId": "GCoCP7CLvVivuWUH1sSA9vMi9jjaJcXpMwVozMVA6yBg",
+      "id": "a27c610e-7ace-4fd2-9d23-dc38d1358b8c",
+      "time": 1766054624514
+    },
+    {
+      "type": "info",
+      "msg": "Bulk status update: 0 Online",
+      "id": "1f421120-80e6-443c-8d9b-bccbb6497f17",
+      "time": 1766054624467
+    },
+    {
+      "type": "success",
+      "msg": "New pNode joined the network",
+      "nodeId": "2UPXgGizp9cCea7SFUeSTxLJ47aKfnUUXt1Pr3GGk4fp",
+      "id": "20ecde79-0172-423f-8d3e-bb33c60bc8d9",
+      "time": 1766054624452
+    }
+  ]
+}

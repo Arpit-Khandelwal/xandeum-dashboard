@@ -8,6 +8,7 @@ import
     useReactTable,
     getSortedRowModel,
     getPaginationRowModel,
+    getFilteredRowModel,
     SortingState,
   } from "@tanstack/react-table";
 import { useState } from "react";
@@ -36,6 +37,7 @@ export function DataTable<TData, TValue>({
 }: DataTableProps<TData, TValue>)
 {
   const [sorting, setSorting] = useState<SortingState>([]);
+  const [globalFilter, setGlobalFilter] = useState("");
   const [pagination, setPagination] = useState({
     pageIndex: 0,
     pageSize: 10,
@@ -47,16 +49,36 @@ export function DataTable<TData, TValue>({
     getCoreRowModel: getCoreRowModel(),
     getSortedRowModel: getSortedRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
+    getFilteredRowModel: getFilteredRowModel(),
     onSortingChange: setSorting,
     onPaginationChange: setPagination,
+    onGlobalFilterChange: setGlobalFilter,
     state: {
       sorting,
       pagination,
+      globalFilter,
     },
   });
 
   return (
     <div className="space-y-4">
+      {/* Search Bar */}
+      <div className="flex items-center justify-between">
+        <div className="relative w-full max-w-sm">
+          <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-muted-foreground/50">
+            <svg className="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+            </svg>
+          </div>
+          <input
+            value={globalFilter ?? ""}
+            onChange={(event) => setGlobalFilter(event.target.value)}
+            placeholder="Search nodes..."
+            className="w-full h-9 pl-9 pr-4 rounded-md bg-secondary/10 border border-transparent focus:border-primary/50 text-sm outline-none transition-colors placeholder:text-muted-foreground/50 text-foreground"
+          />
+        </div>
+      </div>
+
       <div className="rounded-md border border-white/5 overflow-hidden">
         <Table>
           <TableHeader className="bg-muted/10">
