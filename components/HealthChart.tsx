@@ -27,14 +27,50 @@ export default function HealthChart()
 
   const data = rawData.map((d: any) =>
   {
-    const date = new Date(d.timestamp);
-    const hours = date.getHours().toString().padStart(2, '0');
-    // Since we are showing hourly data, let's just show HH:00 to be cleaner
     return {
-      time: `${hours}:00`,
+      timestamp: d.timestamp,
       score: d.score,
     };
-  });
+  }).sort((a, b) => a.timestamp - b.timestamp);
+
+  // Generate clean ticks for XAxis
+  const startTime = data.length > 0 ? data[0].timestamp : Date.now() - 24 * 60 * 60 * 1000;
+  const endTime = data.length > 0 ? data[data.length - 1].timestamp : Date.now();
+  const durationMs = endTime - startTime;
+
+  // Decide on tick interval (aim for ~6-8 ticks)
+  // For 24h (86400000ms), 4h (14400000) interval gives 6 ticks, 3h gives 8 ticks.
+  // Let's aim for nice round intervals within the set: 1h, 2h, 3h, 4h, 6h, 12h
+  const desiredTicks = 8;
+  const roughInterval = durationMs / desiredTicks;
+
+  const hour = 60 * 60 * 1000;
+  const niceIntervals = [hour, 2 * hour, 3 * hour, 4 * hour, 6 * hour, 12 * hour];
+  const interval = niceIntervals.find(i => i >= roughInterval) || niceIntervals[niceIntervals.length - 1];
+
+  const ticks: number[] = [];
+  let current = new Date(startTime);
+
+  // Align to the interval boundary
+  // E.g. if interval is 3h, we want 0, 3, 6, 9...
+  // Use local hours for alignment to look "clean" to the user
+  const currentHour = current.getHours();
+  const intervalHours = interval / hour;
+  const alignedHour = currentHour - (currentHour % intervalHours);
+  current.setHours(alignedHour, 0, 0, 0); // Align and clear minutes/seconds
+
+  // Advance if we moved backwards before start
+  // Actually, reasonable to show a tick slightly before start if we want context, 
+  // but Recharts domain is dataMin-dataMax. 
+  // If we want the first tick to be visible, it should be >= dataMin.
+  // Let's loop and only add if >= startTime
+
+  while (current.getTime() <= endTime) {
+    if (current.getTime() >= startTime) {
+      ticks.push(current.getTime());
+    }
+    current.setTime(current.getTime() + interval);
+  }
 
   return (
     <div className="flex flex-col h-full w-full">
@@ -59,12 +95,15 @@ export default function HealthChart()
             </defs>
             <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" vertical={false} />
             <XAxis
-              dataKey="time"
+              dataKey="timestamp"
+              type="number"
+              domain={['dataMin', 'dataMax']}
+              ticks={ticks}
+              tickFormatter={(ts) => new Date(ts).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
               stroke="#64748b"
               fontSize={12}
               tickLine={false}
               axisLine={false}
-              minTickGap={30}
             />
             <YAxis
               stroke="#64748b"
@@ -75,6 +114,7 @@ export default function HealthChart()
               tickFormatter={(value) => `${value}%`}
             />
             <Tooltip
+              labelFormatter={(ts) => new Date(ts).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
               contentStyle={{ backgroundColor: 'hsl(var(--card))', borderColor: 'hsl(var(--border))', borderRadius: '8px', color: 'hsl(var(--foreground))' }}
               itemStyle={{ color: 'hsl(var(--primary))' }}
               cursor={{ stroke: 'rgba(255,255,255,0.1)', strokeWidth: 2 }}
