@@ -4,7 +4,6 @@ An advanced analytics and monitoring platform for the [Xandeum](https://xandeum.
 
 **Live Demo:** [https://my-xandeum-dashboard.vercel.app/](https://my-xandeum-dashboard.vercel.app/)
 
-
 ## 🚀 Mission
 
 As part of the Xandeum developer bounty ecosystem, this project aims to deliver a **"Stakewiz-like" experience** for Xandeum pNodes. It moves beyond simple lists to provide actionable insights through rich visualizations and interactive data exploration.
@@ -80,6 +79,33 @@ As part of the Xandeum developer bounty ecosystem, this project aims to deliver 
 ## 📡 RPC Configuration
 
 The application currently connects to the hardcoded Xandeum test network seed nodes configured in `lib/prpcClient.ts`. No .env configuration is required for the default read-only dashboard mode.
+
+## ☁️ Vercel Deployment (Storage & Cron)
+
+This project uses **Vercel KV** for storing historical data and **Vercel Cron** for periodic background updates, as serverless functions cannot persist local files.
+
+### 1. Provision Vercel KV
+
+Create a Vercel KV store in your Vercel Dashboard and link it to your project. Pull the environment variables:
+
+```bash
+vercel env pull .env.local
+```
+
+### 2. Cron Jobs
+
+The project is configured (`vercel.json`) to run a cron job every minute to update network stats.
+
+- **Route:** `/api/cron/update-stats`
+- **Schedule:** `* * * * *` (Every minute)
+
+### 3. Local Development
+
+Locally, the app falls back to using `network_stats.json` for storage if KV environment variables are missing. You can trigger updates manually via:
+
+```bash
+curl http://localhost:3000/api/cron/update-stats
+```
 
 ## ⚖️ License
 

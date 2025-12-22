@@ -6,7 +6,7 @@ export const dynamic = 'force-dynamic';
 export async function GET()
 {
     try {
-        const logs = getActivities(50);
+        const logs = await getActivities(50);
         return NextResponse.json(logs);
     } catch (error) {
         console.error("Error fetching activities:", error);

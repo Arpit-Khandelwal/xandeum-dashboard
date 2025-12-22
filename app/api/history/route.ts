@@ -7,9 +7,10 @@ export async function GET()
 {
     try {
         // Ensure background polling is active
+        // Ensure background polling is active (only for local dev fallback)
         startPolling(30000);
 
-        const stats = getHistoricalStats(24); // Last 24h
+        const stats = await getHistoricalStats(24); // Last 24h
         return NextResponse.json(stats);
     } catch (error) {
         return NextResponse.json({ error: 'Failed to fetch history' }, { status: 500 });

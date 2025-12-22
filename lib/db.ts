@@ -1,52 +1,10 @@
-
-import fs from 'fs';
-import path from 'path';
-import { getNetworkSummary, getPNodes } from "@/lib/prpcClient";
 import { PNode, Activity } from './types';
+import { getNetworkSummary, getPNodes } from "@/lib/prpcClient";
+import { readDb, writeDb, DbSchema } from './kv';
 
-const DB_PATH = path.join(process.cwd(), 'network_stats.json');
-
-// Interface for our DB schema
-interface DbSchema
+export async function saveNetworkStats(total: number, online: number, score: number)
 {
-    stats: {
-        timestamp: number;
-        totalNodes: number;
-        onlineNodes: number;
-        score: number;
-    }[];
-    logs: Activity[];
-}
-
-function readDb(): DbSchema
-{
-    try {
-        if (!fs.existsSync(DB_PATH)) {
-            return { stats: [], logs: [] };
-        }
-        const data = fs.readFileSync(DB_PATH, 'utf-8');
-        const parsed = JSON.parse(data);
-        return {
-            stats: parsed.stats || [],
-            logs: parsed.logs || []
-        };
-    } catch (e) {
-        return { stats: [], logs: [] };
-    }
-}
-
-function writeDb(data: DbSchema)
-{
-    try {
-        fs.writeFileSync(DB_PATH, JSON.stringify(data, null, 2));
-    } catch (e) {
-        console.error("Failed to write to DB", e);
-    }
-}
-
-export function saveNetworkStats(total: number, online: number, score: number)
-{
-    const db = readDb();
+    const db = await readDb();
     db.stats.push({
         timestamp: Date.now(),
         totalNodes: total,
@@ -57,12 +15,12 @@ export function saveNetworkStats(total: number, online: number, score: number)
     if (db.stats.length > 1000) {
         db.stats = db.stats.slice(-1000);
     }
-    writeDb(db);
+    await writeDb(db);
 }
 
-export function saveActivity(log: Omit<Activity, 'id' | 'time'>)
+export async function saveActivity(log: Omit<Activity, 'id' | 'time'>)
 {
-    const db = readDb();
+    const db = await readDb();
     const newLog: Activity = {
         ...log,
         id: crypto.randomUUID(),
@@ -76,12 +34,12 @@ export function saveActivity(log: Omit<Activity, 'id' | 'time'>)
     if (db.logs.length > 100) {
         db.logs = db.logs.slice(0, 100);
     }
-    writeDb(db);
+    await writeDb(db);
 }
 
-export function getHistoricalStats(hours: number = 24)
+export async function getHistoricalStats(hours: number = 24)
 {
-    const db = readDb();
+    const db = await readDb();
     const cutoff = Date.now() - (hours * 60 * 60 * 1000);
     const rawStats = db.stats.filter(s => s.timestamp > cutoff);
 
@@ -129,9 +87,9 @@ export function getHistoricalStats(hours: number = 24)
     return aggregated;
 }
 
-export function getActivities(limit: number = 50)
+export async function getActivities(limit: number = 50)
 {
-    const db = readDb();
+    const db = await readDb();
     return db.logs.slice(0, limit);
 }
 
@@ -157,6 +115,11 @@ export function startPolling(intervalMs: number = 60000) // Default 60s
     (globalForStats.statsPoller as any).unref();
 }
 
+export async function updateNetworkStats()
+{
+    return runTask();
+}
+
 async function runTask()
 {
     console.log(`[${new Date().toISOString()}] Running network stats task...`);
@@ -169,7 +132,7 @@ async function runTask()
 
         // 2. Save Stats
         const onlineCount = Math.round((summary.onlinePercent / 100) * summary.totalNodes);
-        saveNetworkStats(summary.totalNodes, onlineCount, summary.compositeScore ?? Math.round(summary.onlinePercent));
+        await saveNetworkStats(summary.totalNodes, onlineCount, summary.compositeScore ?? Math.round(summary.onlinePercent));
 
         // 3. Detect Changes & Log Activity
         const currentMap = new Map(nodes.map(n => [n.id, n]));
@@ -206,54 +169,51 @@ async function runTask()
             // LOGGING LOGIC
             // Joins
             if (newJoins.length > 3) {
-                saveActivity({
+                await saveActivity({
                     type: 'success',
                     msg: `${newJoins.length} new pNodes joined the network`
                 });
             } else {
-                newJoins.forEach(id =>
-                {
-                    saveActivity({
+                for (const id of newJoins) {
+                    await saveActivity({
                         type: 'success',
                         msg: 'New pNode joined the network',
                         nodeId: id
                     });
-                });
+                }
             }
 
             // Status Changes
             if (statusChanges.length > 3) {
                 const onlineCount = statusChanges.filter(s => s.status === 'Online').length;
-                saveActivity({
+                await saveActivity({
                     type: 'info',
                     msg: `Bulk status update: ${onlineCount} Online`
                 });
             } else {
-                statusChanges.forEach(change =>
-                {
-                    saveActivity({
+                for (const change of statusChanges) {
+                    await saveActivity({
                         type: change.status === 'Online' ? 'success' : 'warning',
                         msg: `Node status changed to ${change.status} `,
                         nodeId: change.id
                     });
-                });
+                }
             }
 
             // Disconnections
             if (disconnections.length > 3) {
-                saveActivity({
+                await saveActivity({
                     type: 'error',
                     msg: `${disconnections.length} pNodes disconnected`
                 });
             } else {
-                disconnections.forEach(id =>
-                {
-                    saveActivity({
+                for (const id of disconnections) {
+                    await saveActivity({
                         type: 'error',
                         msg: 'pNode disconnected from network',
                         nodeId: id
                     });
-                });
+                }
             }
         } else {
             // Optional: Log startup
